@@ -24,4 +24,31 @@ Below is the star schema I created:
 5. ### Integration with Power BI:
 Connected Snowflake to Power BI to visualize and analyze the movie data seamlessly.
 Created Power BI dashboards and reports to facilitate data-driven decision-making.
+![image](https://github.com/MuthoniGathu/End-to-End-Data-Engineering-Project-Using-Snowflake/assets/32902183/30b20812-d440-49c6-92ba-03d5e33e3a4c)
+
+### Insights from Visualizations:
+
+* **_Top Rated Movies Analysis:_**
+
+To achieve a top-rated movie, an average budget of approximately $23.93 million is recommended.
+The expected revenue for such a movie is around $70.84 million, resulting in a profit of approximately $46.9 million.
+
+* **_Profitable Genres (Top 5):_**
+
+Adventure movies lead as the most profitable genre, contributing to 17% of the overall profit.
+Action follows closely at 16%, indicating its strong profitability.
+Comedy secures the third position with a contribution of 13% to the overall profit.
+Drama holds the fourth position with an 11% share of the total profit.
+Sci-fi rounds up the top 5 genres with a respectable 9% contribution to the overall profit.
+
+* **_Most Profitable Production Companies (Top 5):_**
+
+Universal Pictures stands out as the most profitable production company.
+Warner Bros, 20th Century Fox, Columbia Pictures, and Paramount also make it to the top 5 most profitable production companies.
+
+* **_Optimal Release Months:_**
+
+The analysis suggests that June and December are the most favorable months to release a movie.
+Conversely, January is identified as the least favorable month for movie releases.
+
 
