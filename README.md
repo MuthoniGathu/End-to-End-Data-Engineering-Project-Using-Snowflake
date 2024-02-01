@@ -51,4 +51,18 @@ Warner Bros, 20th Century Fox, Columbia Pictures, and Paramount also make it to 
 The analysis suggests that June and December are the most favorable months to release a movie.
 Conversely, January is identified as the least favorable month for movie releases.
 
+---
+
+**🎬 Explore the World of Movies 🌐**
+
+This project is part of a comprehensive ETL pipeline and visualization solution for movie data. Dive into the insights, analyze trends, and make informed decisions in the dynamic world of the entertainment industry.
+
+🚀 **Contributions Welcome:** Feel free to contribute, report issues, or suggest enhancements. Let's collaborate to make this project even better!
+
+📧 **Contact:** For inquiries or collaboration opportunities, please reach out to me via [email](gathupenninah@gmail.com) or [LinkedIn](https://www.linkedin.com/in/penninah-gathu/) .
+
+---
+
+
+
 
